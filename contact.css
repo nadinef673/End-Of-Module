@@ -36,6 +36,8 @@ header {
 
 .main-nav li a:hover {
   border: 1px solid white;
+  background-color: white;
+  color: black;
 }
 
 .logo img {

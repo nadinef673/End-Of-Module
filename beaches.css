@@ -95,6 +95,11 @@ header {
 .click {
   background-color: black;
   text-align: center;
+  color: white;
+}
+
+.click:hover {
+  color: white;
 }
 
 .option {
